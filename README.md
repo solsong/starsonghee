@@ -1,5 +1,4 @@
-[![스타벅스](https://github.com/solsong/solstar/blob/master/images/starbucks_logo.png)]
-(https://solsong.github.io/solstar/)
+
 # 프로젝트 명 : 스타벅스 클론 코딩
 
 ## 제작기간 3일
