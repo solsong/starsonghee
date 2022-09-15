@@ -1,5 +1,5 @@
 
-# 프로젝트 명 : 스타벅스 클론 코딩
+# 프로젝트 명 : 스타벅스 클론 코딩 (https://solsong.github.io/starsonghee/)
 
 ## 제작기간 3일
 
